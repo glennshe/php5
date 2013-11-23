@@ -57,6 +57,7 @@
          <?php
             $ascii_character_returned = chr(65);
             echo "The character corresponding to ASCII decimal valie 65 is <b>" . $ascii_character_returned . "</b>";
+        
             ?>
 
          </font></td>
